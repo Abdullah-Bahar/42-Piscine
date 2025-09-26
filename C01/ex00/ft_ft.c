@@ -14,10 +14,11 @@ void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
+
 int main()
 {
-	int a =5;
+	int a = 5;
 
 	ft_ft(&a);
-	pring
+	return(0);
 }
